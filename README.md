@@ -1,4 +1,4 @@
-# Spotify_clone2.0
+# Spotify_clone
 Overview:
 Spotify 2.0 is a modern, responsive web player that allows users to explore and enjoy a variety of playlists. Built using HTML, CSS, and JavaScript, the application is designed to seamlessly adapt to both desktop and mobile devices, providing an optimal user experience.
 
