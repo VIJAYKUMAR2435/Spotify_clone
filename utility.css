@@ -19,7 +19,7 @@
     filter:invert(1);
 }
 .bg-grey{
-  background-color: grey;  
+  background-color: rgb(49, 41, 41); ;  
 }
 .rounded{
     border-radius: 7px;
