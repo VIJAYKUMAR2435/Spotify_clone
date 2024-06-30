@@ -70,7 +70,7 @@ const playMusic = (track,pause=false)=>{
   currentSong.play()
   play.src="pause.svg"
  }
-  document.querySelector(".songInfo").innerHTML=track
+  document.querySelector(".songInfo").innerHTML=decodeURI(track)
   document.querySelector(".songtime").innerHTML= "00:00 / 00:00"
 }
 
