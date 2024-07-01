@@ -328,7 +328,7 @@ body {
     margin: 20px 0;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .left {
         position: absolute;
         left: -130%;
@@ -442,5 +442,6 @@ body {
     }
 
  
+
 
 }
